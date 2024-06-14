@@ -1,0 +1,16 @@
+<resources>
+    <!-- Tema Base da Aplicação -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Personalize seu tema aqui -->
+    </style>
+
+    <!-- Estilo para AppBarOverlay -->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <!-- Personalizações adicionais para a barra de app podem ser adicionadas aqui -->
+    </style>
+
+    <!-- Estilo para PopupOverlay (se necessário) -->
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <!-- Personalizações para popups -->
+    </style>
+</resources>
